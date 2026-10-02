@@ -1,6 +1,6 @@
 # BayUR34-- a Chest X-ray Image Classification Model
 
-This repository contains a hybrid deep learning model for medical image classification, combining a UNet-based feature extractor with a ResNet34 classifier. The system is designed for binary classification of chest X-ray/CT images (Normal vs. Abnormal) with enhanced feature extraction capabilities.
+This repository contains a hybrid deep learning model for medical image classification, combining a UNet-based feature extractor with a ResNet34 classifier. The system is designed for binary classification of chest X-ray/CT images (Normal vs. Abnormal) with enhanced feature extraction capabilities. This model was developed as a course project for ECE4513 — Computer Vision and Image Processing.
 
 ## 📂 Dataset
 
